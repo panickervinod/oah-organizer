@@ -1,0 +1,5 @@
+set export OAH_USER_FULLNAME="Vinod Panicker"
+set export OAH_GIT_USER_EMAIL=""
+set export OAH_GITHUB_NAMESPACE=""
+set export OAH_GITHUB_REPO_USER_PASS=""
+set export OAH_ORGANIZER_ROOT="full-path-to-oah-organizer"
